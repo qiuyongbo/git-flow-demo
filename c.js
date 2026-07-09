@@ -1,3 +1,3 @@
-function c1() {
+export const c1 = () => {
   console.log('c1');
-}
+};
